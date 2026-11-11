@@ -4,7 +4,7 @@
 
 ---
 
-## 🌐 Quick Access (Website Link)
+## 🌐 Quick Access (Website Link) - https://smart-hire-updatedgit-58ivvraqqneqrdzxvhtbw3.streamlit.app
 
 When the application is running, open any web browser and navigate to:
 
