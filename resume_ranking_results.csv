@@ -1,0 +1,17 @@
+Rank,Candidate,Similarity_Score,Shortlist_Probability,Status
+1,Priya_Kulkarni_Resume.pdf,0.4142,0.6384,Selected
+2,John_Doe_ML_Engineer.txt,0.4061,0.6345,Selected
+3,Aarav_Sharma_Resume.pdf,0.3955,0.6299,Selected
+4,Ananya_Deshmukh_Resume.pdf,0.2747,0.6278,Selected
+5,Jane_Smith_Python_Developer.txt,0.2846,0.6256,Selected
+6,Aditya_Patel_Resume.pdf,0.2949,0.6097,Selected
+7,Rohan_Verma_Resume.pdf,0.3285,0.6048,Selected
+8,Arjun_Mehta_Resume.pdf,0.1746,0.5888,Selected
+9,Vikram_Malhotra_Resume.pdf,0.1735,0.4157,Rejected
+10,Sneha_Joshi_Resume.pdf,0.1608,0.4097,Rejected
+11,1794251770.555641_My updated resume  (1).pdf,0.0,0.4047,Rejected
+12,1794251782.65652_My updated resume  (1).pdf,0.0,0.4047,Rejected
+13,1794251252.696768_My updated resume .pdf,0.0,0.4047,Rejected
+14,Kavya_Sundaram_Resume.pdf,0.0772,0.3769,Rejected
+15,Neha_Singhania_Resume.pdf,0.0327,0.3141,Rejected
+16,Bob_Taylor_Marketing_Specialist.txt,0.0344,0.3098,Rejected

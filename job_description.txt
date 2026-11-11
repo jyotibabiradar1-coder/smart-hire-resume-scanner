@@ -1,0 +1,22 @@
+Job Title: Senior Python & Machine Learning Engineer
+Company: AI Solutions Inc.
+Location: Remote / Hybrid
+
+Job Summary:
+We are seeking an experienced Senior Python and Machine Learning Engineer to design, build, and deploy end-to-end intelligent applications. You will work on natural language processing (NLP), predictive modeling, deep learning, and scalable backend services.
+
+Key Responsibilities:
+- Develop scalable machine learning and deep learning models using Scikit-Learn, PyTorch, or TensorFlow.
+- Design and implement Natural Language Processing (NLP) pipelines with SpaCy, NLTK, and transformers.
+- Build robust backend APIs and microservices using Python, FastAPI, Flask, or Django.
+- Implement data processing pipelines using Pandas, NumPy, and SQL databases (PostgreSQL, SQLite).
+- Deploy ML models to production environments using Docker, CI/CD pipelines, and cloud platforms (AWS, GCP, or Azure).
+- Write clean, maintainable, modular, and unit-tested Python code following best practices.
+
+Requirements:
+- Bachelor's or Master's degree in Computer Science, Data Science, or related field.
+- 3+ years of professional experience with Python software engineering and data science.
+- Strong proficiency in Scikit-Learn, Pandas, NumPy, and NLP techniques (TF-IDF, word embeddings).
+- Hands-on experience with SQL and relational databases.
+- Familiarity with version control (Git), Docker, and RESTful API development.
+- Excellent problem-solving, communication, and collaboration skills.
